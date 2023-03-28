@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Yiliu1412/Yiliu1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=yiliu1412)]()
+![Yiliu1412's github stats](https://github-readme-stats.vercel.app/api?username=yiliu1412&show_icons=true)
