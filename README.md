@@ -3,11 +3,7 @@
 ![Yiliu1412's github stats](https://github-readme-stats.vercel.app/api?username=yiliu1412&show_icons=true&theme=dark&count_private=true)
 
 
-Anime Lover.
-
-Tech Otaku.
-
-Fan of Mihoyo.
+Anime Lover. Tech Otaku. Fan of Mihoyo.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yiliu1412&theme=dark&layout=compact&)
 
