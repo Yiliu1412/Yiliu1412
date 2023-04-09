@@ -3,8 +3,11 @@
 
 
 
-# Anime Lover. noTech Otaku. Fan of Mihoyo.
-
+- ✨Anime Lover 
+- 💻noTech Otaku 
+- 🎮Fan of Mihoyo
+- 📫 Contact me: yiliu@nimo.network
+- 💡 Know me more: Click ![Yiliu's hexo blog](https://yiliu1412.github.io/about/)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yiliu1412&theme=dark&layout=compact&)
 
