@@ -3,7 +3,7 @@
 
 
 
-# Anime Lover. Tech Otaku. Fan of Mihoyo.
+# Anime Lover. noTech Otaku. Fan of Mihoyo.
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yiliu1412&theme=dark&layout=compact&)
