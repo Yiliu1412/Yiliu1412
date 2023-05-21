@@ -7,7 +7,7 @@
 - 💻noTech Otaku 
 - 🎮Fan of Mihoyo
 - 📫 Contact me: yiliu@nimo.best
-- 💡 Know me more: [Yiliu's hexo blog](https://yiliu1412.github.io/about/)
+- 💡 Know me more: [Yiliu's Hexo Blog](https://yiliu1412.github.io/about/)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yiliu1412&theme=dark&layout=compact&)
 
